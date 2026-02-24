@@ -4,7 +4,9 @@
   padding: 0;
   box-sizing: border-box;
 }
-
+.card {
+  background: white;
+}
 /* ===== ROOT THEME ===== */
 :root {
   --primary-blue: #0059ff;
@@ -659,4 +661,5 @@ body.dark .particle {
     left: 0 !important;
   }
 }
+
 
